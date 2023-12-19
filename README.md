@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=XO5Q77qdEKk
 https://youtu.be/gW4YWRUhSKc?si=pyHEKk-nFOaWa0dk
 
 ### Filter encrypted HTTPS traffic
-[https://youtu.be/4EB1seHYwf4](https://youtu.be/4EB1seHYwf4)
+[Demonstration](https://youtu.be/4EB1seHYwf4)
 
 Note:
 * Filter bar is red = incorrect filter expression
