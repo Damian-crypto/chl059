@@ -14,6 +14,10 @@ Example of Windows infection traffic from commodity malware distribution.
 ### Filter encrypted and unencrypted HTTP traffic
 [Demonstration](https://youtu.be/ycxWAK7yrtE?si=ITD_OK5-Rfrop9LB)
 
+## Tutorial 2
+### Filter traffic that tries to connect to server that is offline or refusing TCP connection
+[Demonstration](https://youtu.be/gF9K-psNVBM)
+
 Note:
 * Filter bar is white/black(dark mode) = normal
   ![normal](https://github.com/Damian-crypto/chl059/assets/58256720/6e6047fe-ea1b-4af4-ae68-238392f4a90f)
