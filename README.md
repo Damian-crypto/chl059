@@ -15,8 +15,17 @@ Example of Windows infection traffic from commodity malware distribution.
 [Demonstration](https://youtu.be/ycxWAK7yrtE?si=ITD_OK5-Rfrop9LB)
 
 ## Tutorial 2
-### Filter traffic that tries to connect to server that is offline or refusing TCP connection
+### Filter traffic that tries to connect to a server that is offline or refusing TCP connection
 [Demonstration](https://youtu.be/gF9K-psNVBM)
+
+### Filter FTP traffic - Files
+[Demonstration](https://youtu.be/0RGrrRrHTKU)
+
+### Filter SMTP traffic - Emails
+[Demonstration](https://youtu.be/0RGrrRrHTKU)
+
+### Save custom filters in Wireshark
+[Demonstration](https://youtu.be/2FuYGOTY0PQ)
 
 Note:
 * Filter bar is white/black(dark mode) = normal
