@@ -5,9 +5,11 @@ Example of Windows infection traffic from commodity malware distribution.
 ### Edit Wireshark columns
 https://www.youtube.com/watch?v=XO5Q77qdEKk
 
-
 ### Filter unencrypted HTTP traffic
-![Demonstration](https://youtu.be/gW4YWRUhSKc)
+https://youtu.be/gW4YWRUhSKc?si=pyHEKk-nFOaWa0dk
+
+### Filter encrypted HTTPS traffic
+https://youtu.be/4EB1seHYwf4
 
 Note:
 * Filter bar is red = incorrect filter expression
